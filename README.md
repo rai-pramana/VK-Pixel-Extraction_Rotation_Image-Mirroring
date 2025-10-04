@@ -185,7 +185,6 @@ Project ini menggunakan lisensi MIT. Lihat file `LICENSE` untuk detail lebih lan
 
 Jika ada pertanyaan atau saran, silakan hubungi melalui:
 
--   Email: [email-anda@example.com]
 -   GitHub Issues: [https://github.com/rai-pramana/VK-Pixel-Extraction_Rotation_Image-Mirroring/issues](https://github.com/rai-pramana/VK-Pixel-Extraction_Rotation_Image-Mirroring/issues)
 
 ---
